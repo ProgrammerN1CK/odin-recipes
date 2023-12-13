@@ -1,0 +1,37 @@
+a {
+    color: rgb(255, 255, 0);
+    background-color: rgb(255, 0, 255);
+    font-size: 36px;
+    font-family: "cursive", sans-serif, "Times New Roman";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Niconne, cursive;
+    text-align: center;
+}
+
+ol {
+    color: yellow;
+    background-color: navy;
+}
+
+img {
+    width: 300px;
+    height: auto;
+
+}
+
+.center {
+    text-align: center;
+}
+
+* {
+    font-family: Niconne, monospace;
+}
